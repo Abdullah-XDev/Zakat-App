@@ -7,7 +7,7 @@ class ZakatCalculatorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Zakat Calculator',
+      title: 'Sadaqa Calculator',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

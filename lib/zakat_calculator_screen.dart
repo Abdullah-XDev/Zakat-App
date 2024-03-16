@@ -40,13 +40,13 @@ class _ZakatCalculatorScreenState extends State<ZakatCalculatorScreen> {
               ElevatedButton(
                 onPressed: _calculateZakat,
                 child: const Text(
-                  'Calculate Zakat',
+                  'Calculate Sadaqa',
                   style: TextStyle(fontSize: 15),
                 ),
               ),
               const SizedBox(height: 20),
               Text(
-                'Your Zakat amount is: $_zakatAmount',
+                'Your Sadaqa amount is: $_zakatAmount',
                 style: const TextStyle(fontSize: 20),
               ),
               Text(
