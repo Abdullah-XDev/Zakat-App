@@ -13,9 +13,9 @@ class GradientContainer extends StatelessWidget {
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
           colors: [
-            Color.fromARGB(255, 250, 204, 177),
-            Color.fromARGB(255, 226, 176, 146),
-            Color.fromARGB(255, 233, 136, 80)
+            Color.fromARGB(255, 119, 118, 118),
+            Color.fromARGB(255, 243, 234, 81),
+            Color.fromARGB(255, 11, 11, 11)
           ],
         ),
       ),
