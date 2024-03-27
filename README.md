@@ -1,6 +1,8 @@
-# zakat_app
+# Sadaqa_App
 
 A new Flutter project.
+<img width="354" alt="sadaqa" src="https://github.com/Abdullah-XDev/Dice-APP/assets/163126808/16ad4404-2e79-4fec-a208-8c7a07860036">
+
 
 ## Getting Started
 
